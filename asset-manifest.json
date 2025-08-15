@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/movie_app/static/css/main.5bba5cc9.css",
+    "main.js": "/movie_app/static/js/main.2662a1ac.js",
+    "static/js/787.4840dfa8.chunk.js": "/movie_app/static/js/787.4840dfa8.chunk.js",
+    "static/media/midway-movie.jpg": "/movie_app/static/media/midway-movie.db760bee34a4235e910c.jpg",
+    "static/media/Marlowe.jpg": "/movie_app/static/media/Marlowe.ffc659528f37237cd5a4.jpg",
+    "static/media/top-gun.jpg": "/movie_app/static/media/top-gun.2fe1e60012fbf01d833c.jpg",
+    "index.html": "/movie_app/index.html",
+    "main.5bba5cc9.css.map": "/movie_app/static/css/main.5bba5cc9.css.map",
+    "main.2662a1ac.js.map": "/movie_app/static/js/main.2662a1ac.js.map",
+    "787.4840dfa8.chunk.js.map": "/movie_app/static/js/787.4840dfa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bba5cc9.css",
+    "static/js/main.2662a1ac.js"
+  ]
+}
