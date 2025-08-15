@@ -1,6 +1,6 @@
 {
   "name": "movie-api-app",
-  "homepage": "https://hashmisameer.github.io/movie_app",
+  "homepage": "https://hashmisameer.github.io/movie_app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
